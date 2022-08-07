@@ -1,8 +1,1 @@
 # Proyecto-1
-<html>
-<head>
-</head>
-<body>
-<h1>hola mundo</h1>
-</body>
-</html>
